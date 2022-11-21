@@ -12,3 +12,6 @@
 -Boostrap <br/>
 
 
+<h2> Proje önizlemisi </h2>
+
+![](./src/Preview.gif)
